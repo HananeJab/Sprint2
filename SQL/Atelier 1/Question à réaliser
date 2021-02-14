@@ -1,0 +1,26 @@
+à partir du schéma en utilisant les requêtes SQL, vous devez :
+1/ Créer la base donnée sous nom "boutique".
+2/ Création des tables (Manufacturers, Products), voir fichier build-shema
+3/ Sélectionnez les noms de tous les produits du magasin.
+4/ Sélectionner les noms et les prix de tous les produits du magasin.
+5/ Sélectionner le nom des produits dont le prix est inférieur ou égal à 200 $.
+6/ Sélectionnez tous les produits dont le prix est compris entre 60 et 120 dollars.
+7/ Sélectionnez le nom et le prix en cents (c'est-à-dire que le prix doit être multiplié par 100).
+8/ Calculer le prix moyen de tous les produits.
+9/ Calculer le prix moyen de tous les produits dont le code fabricant est égal à 2.
+10/ Calculer le nombre de produits dont le prix est supérieur ou égal à 180 dollars.
+11/ Sélectionner le nom et le prix de tous les produits dont le prix est supérieur ou égal à 180 dollars, et trier d'abord par prix (par ordre décroissant), puis par nom (par ordre croissant).
+12/ Sélectionnez toutes les données des produits, y compris toutes les données relatives au fabricant de chaque produit.
+13/ Sélectionnez le nom du produit, le prix et le nom du fabricant de tous les produits.
+14/ Sélectionnez le prix moyen des produits de chaque fabricant, en indiquant uniquement le code du fabricant.
+15/ Sélectionnez le prix moyen des produits de chaque fabricant, en indiquant le nom du fabricant.
+16/ Sélectionnez les noms des fabricants dont les produits ont un prix moyen supérieur ou égal à 150 $.
+17/ Sélectionnez le nom et le prix du produit le moins cher.
+18/ Sélectionnez le nom de chaque fabricant ainsi que le nom et le prix de son produit le plus cher.
+19/ Ajouter un nouveau produit : Loudspeakers, 70 $, manufacter 2 
+20/ Mettre à jour le nom du produit 8 en "laser Print".
+21/ Appliquer une remise de 10 % à tous les produits.
+22/ Appliquer une remise de 10 % à tous les produits dont le prix est supérieur ou égal à 120 $.
+
+
+NB: manufacturer c'est le fabricant

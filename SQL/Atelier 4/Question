@@ -1,0 +1,14 @@
+En se basant sur le fichier sql shema et shema figure:
+-- vous devez créer une base données, et imiter les requêtes dans le fichier sql shema.
+Exprimer les requêtes suivantes en SQL :
+-- 4.1 Sélectionnez le titre de tous les films.
+-- 4.2 Afficher toutes les classifications distinctes dans la base de données.
+-- 4.3 Afficher tous les films non classés.
+-- 4.4 Sélectionner tous les cinémas qui ne diffusent pas de film actuellement.
+-- 4.5 Sélectionner toutes les données de tous les cinémas 
+    -- En outre, les données du film qui est projeté en salle (si un film est projeté).
+-- 4.6 Sélectionnez toutes les données de tous les films et, si ce film est diffusé dans une salle de cinéma, affichez les données de la salle de cinéma.
+-- 4.7 Afficher les titres des films qui ne sont actuellement diffusés dans aucun cinéma.
+-- 4.8 Ajouter le film non coté "One, Two, three".
+-- 4.9 Fixer la classification de tous les films non classés à "G".
+-- 4.10 Supprimer les salles de cinéma qui projettent des films classés "NC-17".
