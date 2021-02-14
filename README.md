@@ -1,6 +1,6 @@
 # Sprint2
 
-Le deuxième Sprint vise à valider les compétences C1 & C2 avec leur niveau N3, et les compétences C5 C6 C7 avec leur niveau N1.
+Le deuxième Sprint vise à valider les compétences C1 & C2 avec leur niveau N3, et les compétences C3 C5 C6 C7 avec leur niveau N1.
 Le travail sur ces compétences sera composés par des ateliers et un brief finale donc vous devez créer un repo sous github nommée Sprint2.
 
 ## First Step -- SGBD --
