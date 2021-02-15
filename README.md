@@ -6,7 +6,7 @@ Le travail sur ces compétences sera composés par des ateliers et un brief fina
 ## First Step -- SGBD --
 1/ Installation de l’envirenement du travail (serveur local) 
 2/ Documentation sur : 
-- Merise (MCD - MLD)
+- UML
 - Sql(relationnel et non relationnel) 
 - CRUD 
 - Différence entre mongo database et mysql ...
