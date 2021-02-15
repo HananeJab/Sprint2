@@ -26,7 +26,14 @@ Documentation :
 - Librairies
 - Fonctions de base,variables serveur et variable PHP
 - Get & Post
-- Connexion avec la BD (Mysqli - PDO).....
+- Connexion avec la BD (Mysqli - PDO)....
+
+## Step 3 -- Introduction to Javascript --
+- Découvert Console Javascript
+- Introduction au basique de javascript(Intoduction de 5 primitive data types/ Travail avec les numéros et les operateurs / String and common string methods ...)
+- Variables et les fonctions // les tableaux 
+- Animations
+
 
 ------------------------------------------------------------------------------------------
 Brief projet is yet to come :P
