@@ -9,11 +9,25 @@ Le travail sur ces compétences sera composés par des ateliers et un brief fina
 - UML
 - Sql(relationnel et non relationnel) 
 - CRUD 
-- Différence entre mongo database et mysql ...
+- Différence entre mongo database et mysql
+- PL & SQL
+
+...
 Vous allez vers le dossier SQL et travailler sur les ateliers proposé.
 
 ## Step 2 -- Introduction to backend --
-Documentation : Introduction php procédurale  - les variables - les tableaux - les conditions - les boucles - Get et post - Connexion avec la bd (mysqli - pdo) ...
+Documentation :
+- Introduction php procédurale
+- Les principes client serveur
+- Premiers éléments du langage.
+- Intégration de PHP dans une page HTML
+- les fonctions et les variables
+- les conditions, les boucles et les tableaux
+- Librairies
+- Fonctions de base,variables serveur et variable PHP
+- Get & Post
+- Connexion avec la BD (Mysqli - PDO).....
 
+------------------------------------------------------------------------------------------
 Brief projet is yet to come :P
 ## Goodluck best team !!!
