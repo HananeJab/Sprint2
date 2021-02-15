@@ -11,6 +11,7 @@ Le travail sur ces compétences sera composés par des ateliers et un brief fina
 - CRUD 
 - Différence entre mongo database et mysql
 - PL & SQL
+- PHPMyadmin
 
 ...
 Vous allez vers le dossier SQL et travailler sur les ateliers proposé.
@@ -26,13 +27,17 @@ Documentation :
 - Librairies
 - Fonctions de base,variables serveur et variable PHP
 - Get & Post
-- Connexion avec la BD (Mysqli - PDO)....
+- Connexion avec la BD (Mysqli - PDO)
+- Form
+- Sécurité sur PHP (SQL Injection / Password Encryption / )....
 
 ## Step 3 -- Introduction to Javascript --
 - Découvert Console Javascript
 - Introduction au basique de javascript(Intoduction de 5 primitive data types/ Travail avec les numéros et les operateurs / String and common string methods ...)
 - Variables et les fonctions // les tableaux 
 - Animations
+- Practice Algo in Javascript
+
 
 
 ------------------------------------------------------------------------------------------
