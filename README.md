@@ -23,9 +23,8 @@ Documentation :
 - Variables et les fonctions // les tableaux 
 - Animations
 - Practice Algo in Javascript
-Vous allez trouvez sous dossier JavaScript ressource 30 days challenge pour vous aider à se documenter.
-
-
+- Vous allez trouvez sous dossier JavaScript ressource 30 days challenge pour vous aider à se documenter.
+- Le but de cette step est de réaliser les ateliers proposés : 
 
 ## Step 3 -- Introduction to backend --
 Documentation :
