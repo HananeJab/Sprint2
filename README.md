@@ -24,7 +24,7 @@ Documentation :
 - Animations
 - Practice Algo in Javascript
 - Vous allez trouvez sous dossier JavaScript ressource 30 days challenge pour vous aider à se documenter.
-- Le but de cette step est de réaliser les ateliers proposés : 
+- Le but de cette step est de réaliser les ateliers proposés, la modalité du travail est en groupe.
 
 ## Step 3 -- Introduction to backend --
 Documentation :
