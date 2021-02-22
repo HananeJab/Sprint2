@@ -16,7 +16,16 @@ Le travail sur ces compétences sera composés par des ateliers et un brief fina
 ...
 Vous allez vers le dossier SQL et travailler sur les ateliers proposé.
 
-## Step 2 -- Introduction to backend --
+## Step 2 -- Introduction to Javascript --
+Documentation : 
+- Découvert Console Javascript
+- Introduction au basique de javascript(Intoduction de 5 primitive data types/ Travail avec les numéros et les operateurs / String and common string methods ...)
+- Variables et les fonctions // les tableaux 
+- Animations
+- Practice Algo in Javascript
+
+
+## Step 3 -- Introduction to backend --
 Documentation :
 - Introduction php procédurale
 - Les principes client serveur
@@ -30,13 +39,6 @@ Documentation :
 - Connexion avec la BD (Mysqli - PDO)
 - Form
 - Sécurité sur PHP (SQL Injection / Password Encryption / )....
-
-## Step 3 -- Introduction to Javascript --
-- Découvert Console Javascript
-- Introduction au basique de javascript(Intoduction de 5 primitive data types/ Travail avec les numéros et les operateurs / String and common string methods ...)
-- Variables et les fonctions // les tableaux 
-- Animations
-- Practice Algo in Javascript
 
 
 
