@@ -1,4 +1,4 @@
-# Atelier Challenge
+# Atelier JS
 
 ## Horloge
 - Le but de cette atelier sera de vous montrer comment exploiter certaines propriétés CSS3 pour créer une horloge et comment l'animer avec Javascript.
