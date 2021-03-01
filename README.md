@@ -41,8 +41,8 @@ Documentation :
 - Form
 - Sécurité sur PHP (SQL Injection / Password Encryption / )....
 
+## Final Step -- Brief Projet --
 
+[Brief Projet Sprint 2](https://github.com/HananeJab/Sprint2/blob/main/Brief%20Projet%20Sprint%202/README.md)
 
-------------------------------------------------------------------------------------------
-Brief projet is yet to come :P
 ## Goodluck best team !!!
