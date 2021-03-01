@@ -39,7 +39,8 @@ Documentation :
 - Get & Post
 - Connexion avec la BD (Mysqli - PDO)
 - Form
-- Sécurité sur PHP (SQL Injection / Password Encryption / )....
+- Sécurité sur PHP (SQL Injection / Password Encryption / )
+- Session et cookies....
 
 ## Final Step -- Brief Projet --
 
