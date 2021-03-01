@@ -1,7 +1,7 @@
 # Brief Projet Sprint 2
 
 ## Objectif : 
-L'objectif de ce brief et de ce familiariser avec le langage PHP et JAVASCRIPT, et de valider les compétences suivantes : C1 et C2 (Niveau 3) / C3 - C5 - C6 - C7 (Niveau 1) 
+L'objectif de ce brief et de ce familiariser avec le langage PHP et JAVASCRIPT, et de valider les compétences suivantes : C1 et C2 (Niveau 3) / C3 - C5 - C6 - C7 (Niveau 1).
 
 ## Sujet
 
@@ -9,6 +9,7 @@ Restaurant Youcode vient d'ouvrir ses portes a besoin d'un système de gestion d
 - Le projet contient un côté administrateur (admin) et un côté utilisateur (client). 
 - Toute la gestion, comme l'édition du contenu du site, la mise à jour des produits alimentaires, l'ajout de catégories de produits et la vérification des commandes, peut être gérée depuis le côté administrateur.
 - Pour la partie utilisateur, les utilisateurs peuvent passer par la page d'accueil, la page d'information et la page de contact. Pour commander des produits alimentaires, l'utilisateur doit créer un compte et s'identifier ou se connecter. 
+- N.B: Vous devez proposer une maquette et l’intégrer en HTML et SASS.
 
 ## Modules :
 
